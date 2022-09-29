@@ -1,0 +1,10 @@
+##creating storage 
+step_1: open azure and go to storage services.
+step_2: give basic configurations and check network encryption public
+step_3: click on review+create
+step_4: after successful creation of storage go to static web.
+step_5: click on enable and enter name for web index and return path
+step_6: now go to containers and click on web.
+step_7: now upload a file.
+step_8: now again go back to static web and copy web link
+step_9: now open the link in a browser and u can access the file
